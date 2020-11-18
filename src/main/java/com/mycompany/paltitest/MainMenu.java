@@ -61,7 +61,7 @@ public class MainMenu extends javax.swing.JFrame {
     }
     private void welcomeMessage(){
     
-     JOptionPane.showMessageDialog(null,"Welcome To Jurassic  Palta");
+     JOptionPane.showMessageDialog(null,"BIENVENIDO MI NIÑO HERMOSO");
     
     
     }
@@ -127,18 +127,18 @@ public class MainMenu extends javax.swing.JFrame {
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         // TODO add your handling code here:
-         JOptionPane.showMessageDialog(null, "TIOOOO PAAAAAALTAAAAAAAAAAAAAAA");
+         JOptionPane.showMessageDialog(null, "QUE SE TEJE MI REY MI PATA MI PAPITO PIOS");
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         for(int c = 0 ; c<50; c++){
         
-        JOptionPane.showMessageDialog(null, "TE","PALTA CULECA",JOptionPane.ERROR_MESSAGE);
-                JOptionPane.showMessageDialog(null, "DIJE","PALTA CULECA",JOptionPane.ERROR_MESSAGE);
-        JOptionPane.showMessageDialog(null, "PALTA","PALTA CULECA",JOptionPane.ERROR_MESSAGE);
-        JOptionPane.showMessageDialog(null, "CULECA","PALTA CULECA",JOptionPane.ERROR_MESSAGE);
-        JOptionPane.showMessageDialog(null, "<3","PALTA CULECA",JOptionPane.ERROR_MESSAGE);
+        JOptionPane.showMessageDialog(null, "ES","MI CABEZA DE ANO",JOptionPane.ERROR_MESSAGE);
+                JOptionPane.showMessageDialog(null, "UNA","MI CABEZA DE AVA",JOptionPane.ERROR_MESSAGE);
+        JOptionPane.showMessageDialog(null, "PALTA","MI CABEZA DE SIN OREJAS",JOptionPane.ERROR_MESSAGE);
+        JOptionPane.showMessageDialog(null, "CULECA","MI CABEZA DE CORTA CHURROS",JOptionPane.ERROR_MESSAGE);
+        JOptionPane.showMessageDialog(null, "<3","MI CABEZA DE HUEVO",JOptionPane.ERROR_MESSAGE);
 
         }
                 JOptionPane.showMessageDialog(null, "AdIoSs","PALTA CULECA",JOptionPane.ERROR_MESSAGE);
