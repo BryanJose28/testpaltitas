@@ -15,8 +15,8 @@ public class MainPalta {
     
     public static void main (String[]args){
     
-    
-    
+    System.out.println("Hola mundo :3");
+    new MainMenu().setVisible(true);
     
     }
     
