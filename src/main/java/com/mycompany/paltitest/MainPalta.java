@@ -7,7 +7,7 @@ package com.mycompany.paltitest;
 
 /**
  *
- * @author GAMER
+ * @author Matias
  */
 public class MainPalta {
     
