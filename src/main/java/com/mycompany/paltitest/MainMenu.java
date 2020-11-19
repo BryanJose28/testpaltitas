@@ -83,7 +83,7 @@ public class MainMenu extends javax.swing.JFrame {
         setTitle("Paltitest 0.1v");
 
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jButton1.setText("TECHEKASSSS");
+        jButton1.setText("PALTITA PIOS");
         jButton1.setAutoscrolls(true);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
