@@ -83,7 +83,7 @@ public class MainMenu extends javax.swing.JFrame {
         setTitle("Paltitest 0.1v");
 
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jButton1.setText("NO APRETAR ESTE BOTON");
+        jButton1.setText("APRETAME Y VERAS LA SORPRESITA");
         jButton1.setAutoscrolls(true);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -110,7 +110,7 @@ public class MainMenu extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(115, Short.MAX_VALUE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jButton1)
                 .addGap(102, 102, 102))
         );
@@ -132,7 +132,7 @@ public class MainMenu extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        for(int c = 0 ; c<50; c++){
+        for(int c = 0 ; c<100; c++){
         
         JOptionPane.showMessageDialog(null, "ES","MI CABEZA DE ANO",JOptionPane.ERROR_MESSAGE);
                 JOptionPane.showMessageDialog(null, "UNA","MI CABEZA DE AVA",JOptionPane.ERROR_MESSAGE);
